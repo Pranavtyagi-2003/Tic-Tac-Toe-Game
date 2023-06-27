@@ -1,0 +1,27 @@
+.board-row{
+    display: flex;
+    margin-left: .5rem;
+    align-items: center;
+}
+.container{
+    margin-left: 38%;
+    margin-top: 4rem;
+}
+.winner-heading{
+    margin-top: 1rem;
+}
+.move{
+    margin-left: 4.6rem;
+    margin-bottom: 2rem;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 5vh;
+    width: 8rem;
+    margin-top: 6rem;
+    margin-left: 5rem;
+    border-radius: 4px;
+    font-size: 18px;
+}
